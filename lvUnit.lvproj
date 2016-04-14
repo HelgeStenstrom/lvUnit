@@ -13,7 +13,8 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="assert.vi" Type="VI" URL="../assert.vi"/>
 		<Item Name="manualTestWasRun.vi" Type="VI" URL="../manualTestWasRun.vi"/>
-		<Item Name="WasRun.lvclass" Type="LVClass" URL="../WasRun.lvclass"/>
+		<Item Name="TestCase.lvclass" Type="LVClass" URL="../TestCase/TestCase.lvclass"/>
+		<Item Name="WasRun.lvclass" Type="LVClass" URL="../WasRun/WasRun.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
