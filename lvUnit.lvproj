@@ -12,7 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="assert.vi" Type="VI" URL="../assert.vi"/>
-		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+		<Item Name="manualTestWasRun.vi" Type="VI" URL="../manualTestWasRun.vi"/>
 		<Item Name="WasRun.lvclass" Type="LVClass" URL="../WasRun.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
