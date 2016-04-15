@@ -14,6 +14,7 @@
 		<Item Name="assert.vi" Type="VI" URL="../assert.vi"/>
 		<Item Name="manualTestWasRun.vi" Type="VI" URL="../manualTestWasRun.vi"/>
 		<Item Name="TestCase.lvclass" Type="LVClass" URL="../TestCase/TestCase.lvclass"/>
+		<Item Name="TestCaseTest.lvclass" Type="LVClass" URL="../TestCaseTest_class/TestCaseTest.lvclass"/>
 		<Item Name="WasRun.lvclass" Type="LVClass" URL="../WasRun/WasRun.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
